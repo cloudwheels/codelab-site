@@ -1,0 +1,10 @@
+{
+  "title": "Releases",
+  "description": "A look at what's new in the latest Dash Plaform releases - try out new features with hands on examples.",
+  "logoUrl": "/releases/vslive-logo.jpg",
+  "tags": ["rel"],
+  "exclude": [
+    ".*-about$",
+    "^lang-.*"
+  ]
+}

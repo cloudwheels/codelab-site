@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-03-22T23:01:59Z",
+  "id": "release-011",
+  "duration": 5,
+  "title": "Release 0.11",
+  "authors": "Nigel Wheeler (cloudwheels)",
+  "summary": "In this codelab, you'll build a Distributed Application, or ,DApp using the Dash Platform",
+  "source": "1g7v3rCU0uO23kmaLu-b0MtNs56_xhY8hy8uCLMwnIRs",
+  "theme": "intermediate",
+  "status": [
+    "draft"
+  ],
+  "category": [
+    "intermediate"
+  ],
+  "tags": [
+    "rel",
+    "web"
+  ],
+  "feedback": "https://github.com/",
+  "url": "release-011"
+}

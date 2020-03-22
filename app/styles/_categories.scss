@@ -75,6 +75,9 @@ $color-weave-green: #0f9d58;
 }
 
 /* Actual CSS classes */
+@include codelab-card(['beginner'], $color-google-grey, 'beginner.svg');
+@include codelab-card(['intermediate'], $color-google-grey, 'intermediate.svg');
+@include codelab-card(['advanced'], $color-google-grey, 'advanced.svg');
 
 @include codelab-card(['about'],
   $color-google-blue, 'google-g.svg');
